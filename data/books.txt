@@ -1,0 +1,5 @@
+B001,Clean Code,Robert C. Martin,Programming,true
+B002,Effective Java,Joshua Bloch,Programming,true
+B003,Harry Potter,J.K. Rowling,Fantasy,true
+B004,The Hobbit,J.R.R. Tolkien,Fantasy,true
+B005,Atomic Habits,James Clear,Self-Help,true
